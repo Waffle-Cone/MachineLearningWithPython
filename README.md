@@ -1,4 +1,4 @@
-# 📘 Machine Learning with Python — Projects
+# 📘 Machine Learning  — Projects
 
 Author: Lucas de Boer
 
