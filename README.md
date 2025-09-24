@@ -1,21 +1,9 @@
-# 📘 Machine Learning with Python — Assignment Solutions
+# 📘 Machine Learning with Python — Projects
 
 Author: Lucas de Boer
-Course: Machine Learning with Python (Drs. Abbas & Shihab)
 
 ## 📂 Overview
 
-This repository contains Jupyter Notebooks with solutions to the coursework set by Drs. Abbas and Shihab.
+This repository contains some of my work and experiments practicing machine learning with Python. It includes Jupyter Notebooks exploring data cleaning, feature engineering, exploratory data analysis, regression models, and classification techniques.
 
-### Questions
-
-Q1: Google Play Store dataset → data cleaning, EDA, correlations, regression models.
-
-Q2: TED Talks dataset → EDA, feature engineering, regression, and classification-via-regression.
-
-Q3: Persistence dataset → written answers (Word document) and KNN model implementation.
-
-## 📄 Assignment Brief
-
-For full instructions, see [Coursework Brief.pdf](https://github.com/user-attachments/files/22517020/Coursework.Brief.pdf)
-which is also included in the project.
+The projects here are based on datasets provided during coursework and Kaggle, and serve as practice in applying machine learning concepts to real-world data.
