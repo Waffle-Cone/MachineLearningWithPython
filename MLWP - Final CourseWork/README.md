@@ -9,11 +9,11 @@ This repository contains Jupyter Notebooks with solutions to the coursework set 
 
 ### Questions
 
-Q1: Google Play Store dataset → data cleaning, EDA, correlations, regression models.
+Q1: Google Play Store dataset → data cleaning, Exploratory Data Analysis (EDA), correlations, regression models.
 
-Q2: TED Talks dataset → EDA, feature engineering, regression, and classification-via-regression.
+Q2: TED Talks dataset → Exploratory Data Analysis (EDA), feature engineering, regression, and classification-via-regression.
 
-Q3: Persistence dataset → written answers (Word document) and KNN model implementation.
+Q3: Persistence dataset → Persistence dataset → variable suitability and bias analysis, logistic regression & SVM findings, multicollinearity checks, data/model limitations, external factor discussion, and KNN vs Logistic Regression comparison.
 
 ## 📄 Assignment Brief
 
